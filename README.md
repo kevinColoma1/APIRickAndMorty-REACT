@@ -1,3 +1,16 @@
+Aplicación realizada en REACT JS que muestra los personajes de rick and morty, está estructurado
+por una carpeta components compuesta por tres archivos js Characters, Navbar y Pagination. Las 
+cuales permiten tener una estructura organizada en el front end.
+Se uso la siguiente api https://rickandmortyapi.com/api/character
+Documentación api: https://rickandmortyapi.com/documentation
+
+Contacto:
+Correo personal: ckevin10@hotmail.com
+Correo institucional: kevin.coloma@udla.edu.ec
+
+Deploy Heroku: https://react-rick.herokuapp.com/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
